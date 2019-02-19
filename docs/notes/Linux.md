@@ -1,3 +1,4 @@
+* [点击阅读面试进阶指南 ](https://github.com/CyC2018/Backend-Interview-Guide)
 <!-- GFM-TOC -->
 * [一、常用操作以及概念](#一常用操作以及概念)
     * [快捷键](#快捷键)
@@ -534,7 +535,7 @@ cp [-adfilprsu] source destination
 -f ：如果目标文件存在时，先删除目标文件
 ```
 
-<div align="center"> <img src="pics/b8081c84-62c4-4019-b3ee-4bd0e443d647.jpg"/> </div><br>
+<div align="center"> <img src="pics/b8081c84-62c4-4019-b3ee-4bd0e443d647.jpg" width="400px"> </div><br>
 
 ### 1. 实体链接
 
